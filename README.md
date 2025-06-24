@@ -1,4 +1,5 @@
-# Apresentação: CSS Deep Dive
+# Presentation: CSS Deep Dive
+### TODO change to english
 ## Tokenização e CSSOM
 Parseamento do CSS começa: Navegador lê o css e divide em tokens: seletores, propriedades, valores, chaves, etc. 
 Esses tokens são transformados numa estrutura de árvore chamada CSSOM (CSS Object Model),
