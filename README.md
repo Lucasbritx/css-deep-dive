@@ -19,3 +19,16 @@ Depois do CSSOM pronto, o navegador realiza o selector matching, percorrendo a Ã
 
 
 -> Paint(desenha cada box, texto, borda, shadow, imagem, etc.), Compositing e GPU
+
+
+# CSS Deep Dive
+## -> Html Parsing
+## -> Css Parsing
+### -> Cascading
+### -> Processing final values
+## -> How the browser resolve CSS conflicts?
+### 1. Origin and importance
+### 2. Specifity
+### 3. Source Order
+## CSSOM
+## Render tree 
